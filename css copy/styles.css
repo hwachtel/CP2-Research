@@ -1,3 +1,7 @@
 body {
 	 background-image: -webkit-linear-gradient(top, #1D556B 0%, #F27405 100%);
 }
+
+h3{
+	font-style: bold;
+}
